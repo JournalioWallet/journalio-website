@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="408.38062mm"
+   height="115.18983mm"
+   viewBox="0 0 408.38062 115.18984"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="D:\D-File_Manager\Projects\Journalio\Webpage\images\logo_orange.png"
+   inkscape:export-xdpi="997.18079"
+   inkscape:export-ydpi="997.18079"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="logo_orange.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="1994.1258"
+     inkscape:cy="-551.76272"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1099.8067,177.4738)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90.92057037px;line-height:0;font-family:'Bukhari Script';-inkscape-font-specification:'Bukhari Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff895c;fill-opacity:1;stroke:none;stroke-width:1.70476031;"
+       x="-884.32214"
+       y="-103.60892"
+       id="text4487"
+       inkscape:export-xdpi="997.18079"
+       inkscape:export-ydpi="997.18079"><tspan
+         sodipodi:role="line"
+         id="tspan4485"
+         x="-884.32214"
+         y="-103.60892"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90.92057037px;font-family:'Bukhari Script';-inkscape-font-specification:'Bukhari Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff895c;fill-opacity:1;stroke-width:1.70476031;">journalio</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.399786px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.98000004;fill:#ff895c;fill-opacity:1;stroke:#ff895c;stroke-width:0.55699998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       x="-756.46979"
+       y="-62.562469"
+       id="text4522"
+       inkscape:export-xdpi="997.18079"
+       inkscape:export-ydpi="997.18079"><tspan
+         sodipodi:role="line"
+         id="tspan4520"
+         x="-756.46979"
+         y="-62.562469"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.399786px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff895c;fill-opacity:1;stroke:#ff895c;stroke-width:0.55699998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;">WALLET</tspan></text>
+  </g>
+</svg>
