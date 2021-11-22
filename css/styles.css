@@ -36,8 +36,11 @@ New Colors:
 
 .video-wrapper {
     position: relative;
-    max-width: 1300px;
+    /*max-width: 1300px;*/
+	/*width:100%;
+	height:auto;*/
 }
+
 
 .video{
 	/*position: absolute;
@@ -50,14 +53,18 @@ New Colors:
     transform: translate(-50%, 28%);
 	pointer-events: none;*/
 
-	position: absolute;
-    width: 485px;
-    height: 310px;
-    padding-top: 10px;
+	/*position: absolute;*/
+    /*width: 485px;
+    height: 310px;*/
+	width: 75%;
+    height: auto;
+	max-width:480px;
+    padding-top: 2%;
+	padding-bottom: 1%;
+	/*left: 0px;
+    top: -2px;*/
     background-color: #000;
-    left: 0px;
-    top: -2px;
-    transform: translate(16%, 16%);
+    transform: translate(16.5%, 14.5%);
     pointer-events: none;
 }
 
@@ -1146,9 +1153,9 @@ a:hover {
 @media (min-width: 768px) {
 
 	/* Header */
-	/*.header {
+	.header {
 		padding-top: 9rem;
-	}*/
+	}
 
 	.header .h1-large {
 		font-size: 3.75rem;
@@ -1441,6 +1448,8 @@ a:hover {
 		overflow: hidden;
 		padding-top: 12rem;
 		padding-bottom: 15rem;
+		/*padding-top: 18rem;
+		padding-bottom: 18.5rem;*/
 	}
 
 	.header .image-container {
