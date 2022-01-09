@@ -29,7 +29,8 @@ Colors:
 - Body text - dark gray #565578
 
 New Colors:
-- Backgrounds - orange #ff895c;
+- Old Backgrounds - orange #FF895C;
+- New Backgrounds - orange #ff7c4d;
 - Headings text - navy blue #272556
 
 ******************************************/
@@ -58,9 +59,9 @@ New Colors:
     height: 310px;*/
 	width: 75%;
     height: auto;
-	max-width:480px;
+	/*max-width:480px;*/
     padding-top: 2%;
-	padding-bottom: 1%;
+	padding-bottom: 3%;
 	/*left: 0px;
     top: -2px;*/
     background-color: #000;
@@ -391,7 +392,7 @@ a:hover {
 /**********************/
 .navbar {
 	/*background-color: #fff2dc;*/
-	background-color: #ff895c;
+	background-color: #ff7c4d;
 	font-weight: 600;
 	font-size: 0.875rem;
 	line-height: 0.875rem;
@@ -516,7 +517,7 @@ a:hover {
 	padding-top: 8rem;
 	padding-bottom: 9rem;
 	/*background-color: #fff2dc;*/
-	background-color: #ff895c;
+	background-color: #ff7c4d;
 	text-align: center;
 }
 
@@ -1098,7 +1099,7 @@ a:hover {
 	padding-top: 9rem;
 	padding-bottom: 5rem;
 	/*background-color: #fff2dc;*/
-	background-color:  #ff895c;
+	background-color:  #ff7c4d;
 }
 
 .ex-basic-1 .list-unstyled .fas {
@@ -1207,7 +1208,7 @@ a:hover {
 		padding-top: 0.5rem;
 		padding-bottom: 0.5rem;
 		/*background-color: #fff2dc;*/
-		background-color: #ff895c;
+		background-color: #ff7c4d;
 	}
 
 	.offcanvas-collapse {
