@@ -263,6 +263,7 @@ a:hover {
 	transition: all 0.2s;
 }
 
+
 .btn-outline-reg:hover {
 	background-color: #f25c05;
 	color: #ffffff;
@@ -414,7 +415,7 @@ a:hover {
 }
 
 .cards-1 .container .row .col-lg-12 .h3-heading {
-    color: #ff7c4d;
+    color: #FF862F;
 	/*height: 50px;*/
 }
 
@@ -618,6 +619,15 @@ a:hover {
 .cards-1 .card-icon.blue .fas,
 .cards-1 .card-icon.blue .far {
 	color: #1f68f3;
+}
+
+.cards-1 .card-icon.orange {
+	background-color: #ffffff00;
+}
+
+.cards-1 .card-icon.orange .fas,
+.cards-1 .card-icon.orange .far {
+	color: #FF862F;
 }
 
 .cards-1 .card-body {
