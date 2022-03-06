@@ -408,6 +408,18 @@ a:hover {
 	/*height: 50px;*/
 }
 
+.cards-1 .container .row .col-lg-12 .h3-heading img {
+    width: 150px;
+	/*height: 50px;*/
+}
+
+.cards-1 .container .row .col-lg-12 .h3-heading {
+    color: #ff7c4d;
+	/*height: 50px;*/
+}
+
+
+
 .navbar .logo-text {
 	color: #272556;
 	font-weight: 600;
@@ -1179,7 +1191,7 @@ a:hover {
 	
 	/* General Styles */
 	.h2-heading {
-		width: 33rem;
+		width: 45rem;
 		margin-right: auto;
 		margin-left: auto;
 	}
