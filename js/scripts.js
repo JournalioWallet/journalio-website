@@ -135,3 +135,30 @@ function topFunction() {
 	document.body.scrollTop = 0; // for Safari
 	document.documentElement.scrollTop = 0; // for Chrome, Firefox, IE and Opera
 }
+
+
+// OWN FUNCTIONS
+function clipboardfunction() {
+	/* Get the text field */
+	var copyText = document.getElementById("myInput");
+  
+	/* Select the text field */
+	copyText.select();
+	copyText.setSelectionRange(0, 99999); /* For mobile devices */
+  
+	 /* Copy the text inside the text field */
+	navigator.clipboard.writeText(copyText.value);
+  
+	/* Alert the copied text */
+	alert("Copied the text: " + copyText.value);
+  }
+
+  function copy_data(containerid) {
+	var range = document.createRange();
+	range.selectNode(containerid); //changed here
+	window.getSelection().removeAllRanges(); 
+	window.getSelection().addRange(range); 
+	document.execCommand("copy");
+	window.getSelection().removeAllRanges();
+	alert("Texto Copiado :)");
+  }
