@@ -61,7 +61,7 @@
                             <a class="nav-link" href="#howto">¿Cómo Funciona?</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#contact">Contácto</a>
+                            <a class="nav-link" href="#contact">Contacto</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#questions">Preguntas Frecuentes</a>
@@ -117,7 +117,8 @@
                                 <img width="100%" height="auto" align="center" src="images/pc-frame_scaled.png" alt="">
                             </div>
                         <div class="video">
-                            <img class="img-fluid" src="images/header-video.gif" alt="alternative">
+                            <!--img class="img-fluid" src="images/header-video.gif" alt="alternative"-->
+                            <img class="img-fluid" src="images/demo_journalio.gif" alt="alternative">
         
 
                         <!--
@@ -601,14 +602,18 @@
                 <div class="row">
 
                     <div class="col-xl-6 offset-xl-3">
-                        <div class="text-box mt-5 mb-5">
+                        <div class="text-box mt-5 mb-5" id = 'subscribe_area'>
                             <p class="p-small">Dejanos tu email y empieza a ganar más por tu contenido. O si lo prefieres puedes escribirnos a <a href="mailto:info@journaliowallet.com"><strong>info@journaliowallet.com</strong></a></p>
 
                             <!-- Sign Up Form -->
-                            <form>
+                            <iframe name="dummyframe" id="dummyframe" style="display: none;"></iframe>
+                            <form action="https://journaliowallet.us14.list-manage.com/subscribe/post?u=5869b37584f26680a1e228e6d&amp;id=38a150216b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="dummyframe">
                                 <div class="mb-4 form-floating">
-                                    <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
-                                    <label for="floatingInput">Email address</label>
+                                    <!--input type="email" class="form-control" id="floatingInput" placeholder="name@example.com"-->
+                                    <!--label for="floatingInput">Email address</label-->
+                                    <input type="text" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="Email address" required>
+                                    <br>
+                                    <input type="submit" value="Enviar" name="subscribe" id="mc-embedded-subscribe" class="form-control-submit-button">
                                 </div>
                                 <!--div class="mb-4 form-floating">
                                     <input type="text" class="form-control" id="floatingInput2" placeholder="Your name">
@@ -622,8 +627,9 @@
                                     <input type="checkbox" class="form-check-input" id="exampleCheck1">
                                     <label class="form-check-label" for="exampleCheck1">I agree with the site's stated <a href="privacy.html">Privacy Policy</a> and <a href="terms.html">Terms & Conditions</a></label>
                                 </div-->
-                                <button type="submit" class="form-control-submit-button">Enviar</button>
+                                <!--button type="submit" class="form-control-submit-button" id="mc-embedded-subscribe">Enviar</button-->
                             </form>
+                            <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
                             <!-- end of sign up form -->
 
                         </div> <!-- end of text-box -->
@@ -845,7 +851,7 @@
                             <ul class="list-unstyled li-space-lg p-small">
                                 <!--li>Important: <a href="terms.html">Terms & Conditions</a>, <a href="privacy.html">Privacy Policy</a></li-->
                                 <!--li>Useful: <a href="#">Colorpicker</a>, <a href="#">Icon Library</a>, <a href="#">Illustrations</a></li-->
-                                <li>Menu: <a href="#header">Journalio</a>, <a href="#problem">¿Porqué Journalio?</a>, <a href="#solution">Beneficios</a>, <a href="#howto">¿Cómo Funciona?</a>, <a href="#contact">Contácto</a>, <a href="#questions">Preguntas Frecuentes</a></li>
+                                <li>Menu: <a href="#header">Journalio</a>, <a href="#problem">¿Porqué Journalio?</a>, <a href="#solution">Beneficios</a>, <a href="#howto">¿Cómo Funciona?</a>, <a href="#contact">Contacto</a>, <a href="#questions">Preguntas Frecuentes</a></li>
                             </ul>
                         </div> <!-- end of footer-col -->
                         <div class="footer-col third">
