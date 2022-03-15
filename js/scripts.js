@@ -163,10 +163,10 @@ function clipboardfunction() {
 	alert("Texto Copiado :)");
   }
 
-  document.getElementById("mc-embedded-subscribe").onclick = function confrimSub() {
+  /*document.getElementById("mc-embedded-subscribe").onclick = function confrimSub() {
     if(document.getElementById("mce-EMAIL").checkValidity()){
         document.getElementById("mc-embedded-subscribe").textContent = "Suscrito con éxito!";
-        /*document.getElementById('mc-embedded-subscribe').style = "Background-color: #007bff";*/
+        document.getElementById('mc-embedded-subscribe').style = "Background-color: #007bff";
 
         const confirmation_message = document.createElement("p")
         confirmation_message.textContent = "Gracias por confiar en Journalio. En breve nos pondremos en contacto contigo"
@@ -174,4 +174,4 @@ function clipboardfunction() {
         
         document.getElementById("subscribe_area").appendChild(confirmation_message);
     }
-}
+}*/
